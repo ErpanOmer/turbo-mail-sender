@@ -1,0 +1,15 @@
+{
+  "name": "turbo-mail-sender",
+  "version": "1.0.0",
+  "description": "Turbo Mail Sender",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "nodemailer": "^7.0.11"
+  }
+}
