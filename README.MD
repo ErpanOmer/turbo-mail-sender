@@ -1,4 +1,5 @@
-# Turbo Mail Sender
+![Turbo Mail Sender](./banner.png)
+<h1 style="text-align:center;">Turbo Mail Sender</h1>
 
 > 高效、可靠的批量邮件群发工具，基于 Node.js 构建，提供现代化的 Web 界面和强大的任务管理功能。
 
@@ -6,7 +7,7 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-[在线体验](https://erpanomer.nurverse.com/tools/turbo-mail-sender) | [GitHub](https://github.com/ErpanOmer/turbo-mail-sender)
+[在线体验Live](https://erpanomer.nurverse.com/tools/turbo-mail-sender) | [GitHub](https://github.com/ErpanOmer/turbo-mail-sender)
 
 ## 目录
 
