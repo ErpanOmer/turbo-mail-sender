@@ -7,7 +7,7 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-[在线体验Live](https://erpanomer.nurverse.com/tools/turbo-mail-sender) | [GitHub](https://github.com/ErpanOmer/turbo-mail-sender)
+<a href="https://erpanomer.nurverse.com/tools/turbo-mail-sender" target="_blank">在线体验Live</a>
 
 ## 目录
 
